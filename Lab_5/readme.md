@@ -12,8 +12,7 @@
 2. Была использована программа Xmind
 
 3. Результат
-
-![Alt text](screenhots/1.png)
+![1](https://github.com/EkaterinaBriskova/authentication_systems_6sem/assets/90749103/5638692c-7200-447b-b0f4-6e37e69c26ad)
 
 #### Оценка результата
 
