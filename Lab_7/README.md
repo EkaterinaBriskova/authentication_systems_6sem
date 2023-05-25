@@ -9,7 +9,7 @@
 
 Был создан сайт с использованием Quarto и Github Pages:
 
-
+https://ekaterinabriskova.github.io/quatro_site/
 
 ## Выводы
 
